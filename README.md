@@ -6,6 +6,9 @@
 - 📫 You can reach me from isuruchamika007@gmail.com
 - ⚡ Fun fact: පුක සුදුද?
 
+<br>
+
+
 <div align="left">
 <a href="https://github.com/IsuRu-ChaMika?tab=languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsuRu-ChaMika&theme=highcontrast&layout=compact" alt="Languages">
@@ -19,10 +22,17 @@
   </a>
 </div>
 
+<br>
+
+
 * Contact Support -
 
 *Whatsapp :-* wa.me/766632281
+<br>
+
 *Telegram :-* t.me/Isuru_Chamika
+<br>
+
 *Email :-* isuruchamika007@gmail.com
 <!---
 IsuRu-ChaMika/IsuRu-ChaMika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
