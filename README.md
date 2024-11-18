@@ -27,13 +27,13 @@
 
 * Contact Support -
 
-*Whatsapp :-* wa.me/766632281
+*Whatsapp :-* **[`0766632281`](https://wa.me/94766632281)**
 <br>
 
-*Telegram :-* t.me/Isuru_Chamika
+*Telegram :-* **[`Isuru_Chamika`](https://t.me/Isuru_Chamika)**
 <br>
 
-*Email :-* isuruchamika007@gmail.com
+*Email :-* **[`isuruchamika007@gmail.com`](isuruchamika007@gmail.com)**
 <!---
 IsuRu-ChaMika/IsuRu-ChaMika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
